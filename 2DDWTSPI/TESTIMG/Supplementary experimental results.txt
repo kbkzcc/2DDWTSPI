@@ -1,0 +1,97 @@
+A large number of experiments done before are all sorted out in the experimental data of the manuscript. 
+The following is the data recorded in the follow-up experiments. 
+You can also use this code to restore the experimental data in the manuscript.
+The code is marked with detailed comments, thank you.
+
+
+pepper_2DDWT-SPI_5%.bmp
+PNSR = 26.285244	SSIM = 0.782047
+
+pepper_2DDWT-SPI_10%.bmp
+PNSR = 29.349127	SSIM = 0.877702
+
+pepper_2DDWT-SPI_30%.bmp
+PNSR = 35.064632	SSIM = 0.960603
+
+pepper_2DDWT-SPI_100%.bmp
+PNSR = 49.905401	SSIM = 0.999394
+---------------------------------------------------
+Cameraman_2DDWT-SPI_5%.bmp
+PNSR = 22.7852		SSIM = 0.661478		
+--------------------------------------------------
+pepper_2DDWT-SPI_-10db.bmp
+PNSR = 35.016697	SSIM = 0.892776
+
+pepper_2DDWT-SPI_-20db.bmp
+PNSR = 25.164985	SSIM = 0.551602
+
+pepper_2DDWT-SPI_-30db.bmp
+PNSR = 15.136127	SSIM = 0.192406
+
+pepper_2DDWT-SPI_-40db.bmp
+PNSR = 5.151833	SSIM = 0.032927
+
+-----------------------------------------------------------
+pepper_4Step-FSPI_-10db.bmp
+PNSR = 32.141729	SSIM = 0.816184
+
+pepper_4Step-FSPI_-20db.bmp
+PNSR = 22.103852	SSIM = 0.426395
+
+pepper_4Step-FSPI_-30db.bmp
+PNSR = 12.157574	SSIM = 0.123091
+
+pepper_4Step-FSPI_-40db.bmp
+PNSR = 2.116928	SSIM = 0.015638
+-------------------------------------------------------
+5%_Cameraman_4Step-FSPI.bmp
+PNSR = 22.856330	SSIM = 0.667233
+-------------------------------------------------------
+5%_pepper_4Step-FSPI.bmp
+PNSR = 26.871687	SSIM = 0.787356
+
+10%_pepper_4Step-FSPI.bmp
+PNSR = 29.932551	SSIM = 0.880690
+
+30%_pepper_4Step-FSPI.bmp
+PNSR = 35.783325	SSIM = 0.961638
+
+100%_pepper_4Step-FSPI.bmp
+PNSR = 266.728184	SSIM = 1.000000
+
+-------------------------------------------------------------
+5%_Cameraman_2Step-FSPI.bmp
+PNSR = 11.365580	SSIM = 0.532010
+-----------------------------------------------------------
+5%_pepper_2Step-FSPI.bmp
+PNSR = 12.548105	SSIM = 0.600073
+
+10%_pepper_2Step-FSPI.bmp
+PNSR = 12.609413	SSIM = 0.651642
+
+30%_pepper_2Step-FSPI.bmp
+PNSR = 12.654290	SSIM = 0.695200
+
+100%_pepper_2Step-FSPI.bmp
+PNSR = 12.670166	SSIM = 0.714906
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
